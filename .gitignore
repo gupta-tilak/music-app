@@ -174,5 +174,4 @@ cython_debug/
 .venv/
 
 /transformer.joblib
-/data
 data/MP3-Example/
