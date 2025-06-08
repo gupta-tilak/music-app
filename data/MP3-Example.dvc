@@ -1,0 +1,6 @@
+outs:
+- md5: fee189e5ed64b9ad43fd04baf237a722.dir
+  size: 544824272
+  nfiles: 1500
+  hash: md5
+  path: MP3-Example
